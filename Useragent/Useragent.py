@@ -21,7 +21,7 @@ logo = ("""  ____  _____            _   _ _____
 print(logo)
 #def ua():
 for i in range(1):
- fbrv = f'{random.randint(10,437)}.0.0.{random.randint(1,99)}.{random.randint(1,200)}'
+ fbrv = f'{random.randint(10,435)}.0.0.{random.randint(1,99)}.{random.randint(1,200)}'
  fbbv = str(random.randint(111111111,999999999))
  fbrv = str(random.randint(111111111,999999999))
  rdp = str(random.randint(11111111, 48444444))
