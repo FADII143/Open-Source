@@ -22,8 +22,8 @@ print(logo)
 #def ua():
 for i in range(1):
  fbrv = f'{random.randint(10,435)}.0.0.{random.randint(1,99)}.{random.randint(1,200)}'
- fbbv = str(random.randint(111111111,999999999))
- fbrv = str(random.randint(111111111,999999999))
+ fbbv = str(random.randint(11111111,99999999))
+ fbrv = str(random.randint(11111111,99999999))
  rdp = str(random.randint(11111111, 48444444))
  en = random.choice(['en_US','en_GB','en_PK'])
  droid = random.choice(['6','6.0','6.1','6.2','6.3','6.4','6.5','6.6','6.7','6.8','6.9','7','7.0','7.1','7.2','7.3','7.4','7.5','7.6','7.7','7.8','7.9','8','8.0','8.1','8.2','8.3','8.4','8.5','8.6','7.8','8.8','8.9','9','9.0','9.1','9.2','9.3','9.4','9.5','9.6','7.9','9.8','9.9','10','11','12','13'])
